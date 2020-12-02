@@ -1,0 +1,80 @@
+﻿  sdl_util.cpp
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\bmp.h(146,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(12,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(11,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(96,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(96,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(96,68): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(96,68): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(96,87): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(96,87): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(97,25): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(97,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(115,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(119,26): warning C4305: 'initializing': truncation from 'int' to 'float'
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(120,25): warning C4305: 'initializing': truncation from 'int' to 'float'
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(122,32): warning C4244: '=': conversion from 'const _Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(123,32): warning C4244: '=': conversion from 'const _Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(126,30): warning C4244: 'argument': conversion from 'const _Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(126,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(127,51): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(127,45): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(127,39): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(128,30): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(128,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(128,64): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(128,64): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(129,25): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(129,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(129,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(129,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(140,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(140,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(140,48): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\sdl_util.cpp(140,48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+LINK : warning LNK4044: unrecognized option '/H100000'; ignored
+main.obj : warning LNK4006: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,struct Point2D const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBUPoint2D@@@Z) already defined in agent.obj; second definition ignored
+main.obj : warning LNK4006: "bool __cdecl operator<(struct Point2D,struct Point2D)" (??M@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+main.obj : warning LNK4006: "bool __cdecl operator!=(struct Point2D,struct Point2D)" (??9@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+main.obj : warning LNK4006: "bool __cdecl operator==(struct Point2D,struct Point2D)" (??8@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+main.obj : warning LNK4006: "struct FPoint2D __cdecl operator+(struct FPoint2D,struct FPoint2D)" (??H@YA?AUFPoint2D@@U0@0@Z) already defined in agent.obj; second definition ignored
+pathfinding.obj : warning LNK4006: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,struct Point2D const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBUPoint2D@@@Z) already defined in agent.obj; second definition ignored
+pathfinding.obj : warning LNK4006: "bool __cdecl operator<(struct Point2D,struct Point2D)" (??M@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+pathfinding.obj : warning LNK4006: "bool __cdecl operator!=(struct Point2D,struct Point2D)" (??9@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+pathfinding.obj : warning LNK4006: "bool __cdecl operator==(struct Point2D,struct Point2D)" (??8@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+pathfinding.obj : warning LNK4006: "struct FPoint2D __cdecl operator+(struct FPoint2D,struct FPoint2D)" (??H@YA?AUFPoint2D@@U0@0@Z) already defined in agent.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "struct SDL_Texture * bg" (?bg@@3PEAUSDL_Texture@@EA) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "struct SDL_Window * gWindow" (?gWindow@@3PEAUSDL_Window@@EA) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "struct SDL_Renderer * gRenderer" (?gRenderer@@3PEAUSDL_Renderer@@EA) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "struct SDL_Surface * gScreenSurface" (?gScreenSurface@@3PEAUSDL_Surface@@EA) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,struct Point2D const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBUPoint2D@@@Z) already defined in agent.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "bool __cdecl operator<(struct Point2D,struct Point2D)" (??M@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "bool __cdecl operator!=(struct Point2D,struct Point2D)" (??9@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "bool __cdecl operator==(struct Point2D,struct Point2D)" (??8@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "struct FPoint2D __cdecl operator+(struct FPoint2D,struct FPoint2D)" (??H@YA?AUFPoint2D@@U0@0@Z) already defined in agent.obj; second definition ignored
+util.obj : warning LNK4006: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,struct Point2D const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBUPoint2D@@@Z) already defined in agent.obj; second definition ignored
+util.obj : warning LNK4006: "bool __cdecl operator<(struct Point2D,struct Point2D)" (??M@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+util.obj : warning LNK4006: "bool __cdecl operator!=(struct Point2D,struct Point2D)" (??9@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+util.obj : warning LNK4006: "bool __cdecl operator==(struct Point2D,struct Point2D)" (??8@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+util.obj : warning LNK4006: "struct FPoint2D __cdecl operator+(struct FPoint2D,struct FPoint2D)" (??H@YA?AUFPoint2D@@U0@0@Z) already defined in agent.obj; second definition ignored
+C:\Users\omc\source\repos\astar_fo_shizzle\x64\Release\astar_fo_shizzle.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Generating code
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\util.h(90): warning C4715: 'operator!=': not all control paths return a value
+  Finished generating code
+* CIL library *(* CIL module *) : warning LNK4006: "bool __cdecl operator==(struct Point2D,struct Point2D)" (??8@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "bool __cdecl operator==(struct Point2D,struct Point2D)" (??8@YA_NUPoint2D@@0@Z) already defined in agent.obj; second definition ignored
+C:\Users\omc\source\repos\astar_fo_shizzle\x64\Release\astar_fo_shizzle.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  astar_fo_shizzle.vcxproj -> C:\Users\omc\source\repos\astar_fo_shizzle\x64\Release\astar_fo_shizzle.exe

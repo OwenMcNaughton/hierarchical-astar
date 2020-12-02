@@ -1,0 +1,42 @@
+﻿  main.cpp
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\bmp.h(146,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\main.cpp(27,9): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\main.cpp(63,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  pathfinding.cpp
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\bmp.h(146,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\pathfinding.cpp(26,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\pathfinding.cpp(146,50): warning C4267: '=': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\pathfinding.cpp(147,50): warning C4267: '=': conversion from 'size_t' to 'int16_t', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\pathfinding.cpp(228,61): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\pathfinding.cpp(251,67): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\pathfinding.cpp(256,58): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\pathfinding.cpp(280,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\pathfinding.cpp(281,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\pathfinding.cpp(285,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\pathfinding.cpp(287,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\util.h(72): warning C4715: 'operator!=': not all control paths return a value
+C:\Users\omc\source\repos\astar_fo_shizzle\astar_fo_shizzle\util.h(72): warning C4715: 'operator!=': not all control paths return a value
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+pathfinding.obj : warning LNK4006: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,struct Point2D const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBUPoint2D@@@Z) already defined in main.obj; second definition ignored
+pathfinding.obj : warning LNK4006: "bool __cdecl operator==(struct Point2D,struct Point2D)" (??8@YA_NUPoint2D@@0@Z) already defined in main.obj; second definition ignored
+pathfinding.obj : warning LNK4006: "bool __cdecl operator!=(struct Point2D,struct Point2D)" (??9@YA_NUPoint2D@@0@Z) already defined in main.obj; second definition ignored
+pathfinding.obj : warning LNK4006: "bool __cdecl operator<(struct Point2D,struct Point2D)" (??M@YA_NUPoint2D@@0@Z) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,struct Point2D const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBUPoint2D@@@Z) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "bool __cdecl operator==(struct Point2D,struct Point2D)" (??8@YA_NUPoint2D@@0@Z) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "bool __cdecl operator!=(struct Point2D,struct Point2D)" (??9@YA_NUPoint2D@@0@Z) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "bool __cdecl operator<(struct Point2D,struct Point2D)" (??M@YA_NUPoint2D@@0@Z) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "struct SDL_Window * gWindow" (?gWindow@@3PEAUSDL_Window@@EA) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "struct SDL_Surface * gScreenSurface" (?gScreenSurface@@3PEAUSDL_Surface@@EA) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "struct SDL_Texture * bg" (?bg@@3PEAUSDL_Texture@@EA) already defined in main.obj; second definition ignored
+sdl_util.obj : warning LNK4006: "struct SDL_Renderer * gRenderer" (?gRenderer@@3PEAUSDL_Renderer@@EA) already defined in main.obj; second definition ignored
+util.obj : warning LNK4006: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,struct Point2D const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBUPoint2D@@@Z) already defined in main.obj; second definition ignored
+util.obj : warning LNK4006: "bool __cdecl operator==(struct Point2D,struct Point2D)" (??8@YA_NUPoint2D@@0@Z) already defined in main.obj; second definition ignored
+util.obj : warning LNK4006: "bool __cdecl operator!=(struct Point2D,struct Point2D)" (??9@YA_NUPoint2D@@0@Z) already defined in main.obj; second definition ignored
+util.obj : warning LNK4006: "bool __cdecl operator<(struct Point2D,struct Point2D)" (??M@YA_NUPoint2D@@0@Z) already defined in main.obj; second definition ignored
+C:\Users\omc\source\repos\astar_fo_shizzle\x64\Debug\astar_fo_shizzle.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  astar_fo_shizzle.vcxproj -> C:\Users\omc\source\repos\astar_fo_shizzle\x64\Debug\astar_fo_shizzle.exe
